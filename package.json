@@ -1,0 +1,19 @@
+{
+  "name": "restroutes",
+  "version": "1.0.0",
+  "description": "REST routes for express, no dependencies",
+  "main": "rest-routes.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsk7/rest-router.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsk7/rest-router/issues"
+  },
+  "homepage": "https://github.com/rsk7/rest-router#readme"
+}
