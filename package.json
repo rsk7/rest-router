@@ -1,6 +1,6 @@
 {
   "name": "restroutes",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "REST routes for express, no dependencies",
   "main": "rest-routes.js",
   "scripts": {
